@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @nag-gude
+/src/backend/database.py      @nag-gude
+/src/backend/routers/auth.py  @nag-gude
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @nag-gude
